@@ -42,7 +42,7 @@ Todo is an Android mobile application that enables users to manage their daily t
 ## Installation
 
 1. Download the "Todo" project by clicking on "Clone or download" and selecting "Download ZIP," or you can use the following command in the terminal:
-git clone https://github.com/your-username/todo.git
+git clone https://github.com/hagarabobakr/todo.git
 
 livecodeserver
 Copy
@@ -64,7 +64,7 @@ Once you run the "Todo" application on your device or emulator, you can perform 
 
 If you would like to contribute to the development of the "Todo" application, we welcome contributions from other developers. You can follow these steps:
 
-1. Fork our project (https://github.com/your-username/todo).
+1. Fork our project (https://github.com/hagarabobakr/todo).
 2. Make the necessary changes and test them locally.
 3. Send us a pull request for reviewing the changes.
 
